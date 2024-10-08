@@ -25,11 +25,25 @@ li {
     background-color: #e7f3fe; /* Color de fondo suave para los elementos de la lista */
     border-left: 4px solid #000080; /* Borde izquierdo azul oscuro */
 }
-
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
 img{
     width: 200px;
     height: 200px;
     background-image: url();
     background-size: cover;
-    border-radius: 50%;
+    border-radius: 100%;
+}
+fieldset{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.habilidades{
+    border-color: black ;
+    border: 1px;
 }
