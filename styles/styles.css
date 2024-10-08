@@ -1,0 +1,27 @@
+
+.content {
+    background-color: #add8e6; /* Color azul claro */
+    border: 2px solid #000080; /* Borde azul oscuro */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    max-width: 600px; /* Ancho máximo del cuadro */
+    margin: auto; /* Centrar el cuadro */
+}
+h1 {
+    color: #000080; /* Color del título */
+    text-align: center; /* Centrar el título */
+}
+h2 {
+    color: #2c3e50; /* Color para subtítulos */
+    margin-top: 20px; /* Espaciado superior */
+}
+ul {
+    list-style-type: none; /* Quitar los puntos de la lista */
+    padding: 0; /* Quitar el padding */
+}
+li {
+    margin: 10px 0; /* Espaciado entre elementos de la lista */
+    padding: 10px; /* Espaciado interno de cada elemento */
+    background-color: #e7f3fe; /* Color de fondo suave para los elementos de la lista */
+    border-left: 4px solid #000080; /* Borde izquierdo azul oscuro */
+}
